@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">maximaTechTrainingApp</string>
+
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="user_id">User ID</string>
+    <string name="get_profile">Get Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="delete_profile">Delete Profile</string>
+    <string name="check_token">Check Token Expires Date</string>
+    <string name="refresh_token">Refresh Token</string>
+    <string name="logout">Logout</string>
+    <string name="new_password">New Password</string>
+    <string name="update">Update</string>
+
+    <string name="empty_field">Empty Field</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="invalid_email_equals">You\'re already using this e-mail</string>
+    <string name="email_missing_password">You need to type your password to update your e-mail</string>
+    <string name="invalid_password_length">Must have from 6 to 16 characters</string>
+    <string name="new_password_missing_password">You need to type your current password to create a new one</string>
+</resources>
